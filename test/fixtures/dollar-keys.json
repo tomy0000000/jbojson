@@ -1,0 +1,5 @@
+{
+  "$id": "https://example.com/x.json",
+  "$schema": "https://example.com/schema.json",
+  "name": "example"
+}
