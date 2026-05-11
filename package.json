@@ -1,6 +1,9 @@
 {
   "author": "Tomy Hsieh <npm@tomy.me> (https://github.com/tomy0000000)",
   "description": "",
+  "engines": {
+    "node": "22"
+  },
   "devDependencies": {
     "@tsconfig/node-ts": "^23.6.4",
     "@tsconfig/node22": "^22.0.5",
