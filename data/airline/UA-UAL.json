@@ -1,5 +1,6 @@
 {
-  "$schema": "https://raw.githubusercontent.com/tomy0000000/jbojson/refs/tags/2026.05.10/schema/airline.json",
+  "$id": "UA-UAL",
+  "$schema": "https://raw.githubusercontent.com/tomy0000000/jbojson/refs/tags/2026.05.11/schema/airline.json",
   "aerolopa": "https://www.aerolopa.com/ua",
   "alliance": "Star Alliance",
   "appleWalletPass": true,

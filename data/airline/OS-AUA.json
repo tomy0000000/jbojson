@@ -1,5 +1,6 @@
 {
-  "$schema": "https://raw.githubusercontent.com/tomy0000000/jbojson/refs/tags/2026.05.10/schema/airline.json",
+  "$id": "OS-AUA",
+  "$schema": "https://raw.githubusercontent.com/tomy0000000/jbojson/refs/tags/2026.05.11/schema/airline.json",
   "alliance": "Star Alliance",
   "appleWalletPass": null,
   "countries": [
