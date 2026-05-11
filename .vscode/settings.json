@@ -1,0 +1,26 @@
+{
+  "eslint.validate": [
+    "json",
+    "jsonc",
+    "json5"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.formatOnSave": false
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.formatOnSave": false
+  },
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "data/airline/*.json"
+      ],
+      "url": "./schema/airline.json"
+    }
+  ]
+}
