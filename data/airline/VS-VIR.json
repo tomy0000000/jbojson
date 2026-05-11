@@ -1,0 +1,20 @@
+{
+  "alliance": "SkyTeam",
+  "countries": [
+    "gb"
+  ],
+  "defunct": false,
+  "iata": "VS",
+  "icao": "VIR",
+  "internet": [
+    {
+      "name": "Viasat",
+      "url": "https://news.viasat.com/blog/gem/virgin-atlantic-adds-viasat-wi-fi-offerings-to-its-newest-planes"
+    }
+  ],
+  "lcc": false,
+  "name": "Virgin Atlantic",
+  "seatguru": "https://www.seatguru.com/airlines/Virgin_Atlantic_Airways/information.php",
+  "url": "https://www.virginatlantic.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Virgin_Atlantic"
+}

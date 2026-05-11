@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "fr"
+  ],
+  "defunct": false,
+  "iata": "BF",
+  "icao": "FBU",
+  "lcc": true,
+  "name": "French Bee",
+  "seatguru": "https://www.seatguru.com/airlines/French_bee_Airlines/information.php",
+  "url": "https://www.frenchbee.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/French_Bee"
+}

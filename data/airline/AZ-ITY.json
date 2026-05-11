@@ -1,0 +1,24 @@
+{
+  "alliance": "SkyTeam",
+  "apple-wallet-pass": null,
+  "countries": [
+    "it"
+  ],
+  "defunct": false,
+  "iata": "AZ",
+  "icao": "ITY",
+  "internet": [
+    {
+      "aircraft": [
+        "A330"
+      ],
+      "name": "AeroMobile",
+      "url": "https://www.aeromobile.net/airlines/ita-airways/"
+    }
+  ],
+  "lcc": false,
+  "name": "ITA Airways",
+  "seatguru": null,
+  "url": "https://www.ita-airways.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/ITA_Airways"
+}

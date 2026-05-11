@@ -1,0 +1,23 @@
+{
+  "alliance": null,
+  "countries": [
+    "bd"
+  ],
+  "defunct": false,
+  "iata": "BG",
+  "icao": "BBC",
+  "internet": [
+    {
+      "aircraft": [
+        "B787"
+      ],
+      "name": "AeroMobile",
+      "url": "https://www.aeromobile.net/airlines/biman-bangladesh-airlines/"
+    }
+  ],
+  "lcc": false,
+  "name": "Biman Bangladesh Airlines",
+  "seatguru": null,
+  "url": "http://www.biman-airlines.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Biman_Bangladesh_Airlines"
+}

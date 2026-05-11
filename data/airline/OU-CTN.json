@@ -1,0 +1,15 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "hr"
+  ],
+  "defunct": false,
+  "iata": "OU",
+  "icao": "CTN",
+  "lcc": false,
+  "name": "Croatia Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Croatia_Airlines/information.php",
+  "url": "https://www.croatiaairlines.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Croatia_Airlines"
+}

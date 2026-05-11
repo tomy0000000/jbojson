@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": true,
+  "countries": [
+    "my"
+  ],
+  "defunct": false,
+  "iata": "D7",
+  "icao": "XAX",
+  "lcc": true,
+  "name": "AirAsia X",
+  "seatguru": "https://www.seatguru.com/airlines/AirAsia_X/information.php",
+  "url": "https://www.airasia.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/AirAsia_X"
+}

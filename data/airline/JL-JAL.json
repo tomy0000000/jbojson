@@ -1,0 +1,15 @@
+{
+  "alliance": "One World",
+  "apple-wallet-pass": null,
+  "countries": [
+    "jp"
+  ],
+  "defunct": false,
+  "iata": "JL",
+  "icao": "JAL",
+  "lcc": false,
+  "name": "Japan Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Japan_Airlines/information.php",
+  "url": "https://www.jal.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Japan_Airlines"
+}

@@ -1,0 +1,24 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": true,
+  "countries": [
+    "ae"
+  ],
+  "defunct": false,
+  "iata": "EK",
+  "icao": "UAE",
+  "internet": [
+    {
+      "aircraft": [
+        "B777"
+      ],
+      "name": "AeroMobile",
+      "url": "https://www.aeromobile.net/airlines/emirates/"
+    }
+  ],
+  "lcc": false,
+  "name": "Emirates",
+  "seatguru": "https://www.seatguru.com/airlines/Emirates_Airlines/information.php",
+  "url": "https://www.emirates.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Emirates_(airline)"
+}

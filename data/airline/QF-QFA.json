@@ -1,0 +1,15 @@
+{
+  "alliance": "One World",
+  "apple-wallet-pass": null,
+  "countries": [
+    "au"
+  ],
+  "defunct": false,
+  "iata": "QF",
+  "icao": "QFA",
+  "lcc": false,
+  "name": "Qantas",
+  "seatguru": null,
+  "url": "https://www.qantas.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Qantas"
+}

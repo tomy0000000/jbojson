@@ -1,0 +1,21 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "pl"
+  ],
+  "defunct": false,
+  "iata": "LO",
+  "icao": "LOT",
+  "internet": [
+    {
+      "name": "Viasat",
+      "url": "https://news.viasat.com/newsroom/press-releases/lot-polish-airlines-selects-viasat-to-deliver-in-flight-connectivity-to-boeing-787-dreamliner-fleet"
+    }
+  ],
+  "lcc": false,
+  "name": "LOT Polish Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/LOT_Polish_Airlines/information.php",
+  "url": "https://www.lot.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/LOT_Polish_Airlines"
+}

@@ -1,0 +1,21 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "tw"
+  ],
+  "defunct": false,
+  "iata": "JX",
+  "icao": "SJX",
+  "internet": [
+    {
+      "name": "Viasat",
+      "url": "https://news.viasat.com/newsroom/press-releases/starlux-commits-to-viasat-with-launch-of-enhancedin-flight-connectivity-service"
+    }
+  ],
+  "lcc": false,
+  "name": "Starlux Airlines",
+  "seatguru": null,
+  "url": "https://www.starlux-airlines.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Starlux_Airlines"
+}

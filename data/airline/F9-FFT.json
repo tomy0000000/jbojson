@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "us"
+  ],
+  "defunct": false,
+  "iata": "F9",
+  "icao": "FFT",
+  "lcc": true,
+  "name": "Frontier Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Frontier_Airlines/information.php",
+  "url": "https://www.flyfrontier.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Frontier_Airlines"
+}

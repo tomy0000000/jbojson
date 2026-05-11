@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "es"
+  ],
+  "defunct": false,
+  "iata": "IB",
+  "icao": "IBE",
+  "lcc": true,
+  "name": "LEVEL",
+  "seatguru": null,
+  "url": "https://www.flylevel.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Level_(airline_brand)"
+}

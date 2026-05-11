@@ -1,0 +1,15 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "cn"
+  ],
+  "defunct": false,
+  "iata": "CA",
+  "icao": "CCA",
+  "lcc": false,
+  "name": "Air China",
+  "seatguru": "https://www.seatguru.com/airlines/Air_China/information.php",
+  "url": "http://www.airchina.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Air_China"
+}

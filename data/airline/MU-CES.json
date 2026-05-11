@@ -1,0 +1,15 @@
+{
+  "alliance": "SkyTeam",
+  "apple-wallet-pass": null,
+  "countries": [
+    "cn"
+  ],
+  "defunct": false,
+  "iata": "MU",
+  "icao": "CES",
+  "lcc": false,
+  "name": "China Eastern Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/China_Eastern/information.php",
+  "url": "https://www.ceair.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/China_Eastern_Airlines"
+}

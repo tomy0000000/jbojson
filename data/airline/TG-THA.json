@@ -1,0 +1,15 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "th"
+  ],
+  "defunct": false,
+  "iata": "TG",
+  "icao": "THA",
+  "lcc": false,
+  "name": "Thai Airways",
+  "seatguru": "https://www.seatguru.com/airlines/Thai_Airways/information.php",
+  "url": "https://www.thaiairways.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Thai_Airways_International"
+}

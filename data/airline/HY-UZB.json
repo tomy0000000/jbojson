@@ -1,0 +1,23 @@
+{
+  "alliance": null,
+  "countries": [
+    "uz"
+  ],
+  "defunct": false,
+  "iata": "HY",
+  "icao": "UZB",
+  "internet": [
+    {
+      "aircraft": [
+        "B787"
+      ],
+      "name": "AeroMobile",
+      "url": "https://www.aeromobile.net/airlines/uzbekistan-airways/"
+    }
+  ],
+  "lcc": false,
+  "name": "Uzbekistan Airways",
+  "seatguru": "https://www.seatguru.com/airlines/Uzbekistan_Airlines/information.php",
+  "url": "http://www.uzairways.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Uzbekistan_Airways"
+}

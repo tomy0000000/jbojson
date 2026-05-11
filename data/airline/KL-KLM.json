@@ -1,0 +1,15 @@
+{
+  "alliance": "SkyTeam",
+  "apple-wallet-pass": null,
+  "countries": [
+    "nl"
+  ],
+  "defunct": false,
+  "iata": "KL",
+  "icao": "KLM",
+  "lcc": false,
+  "name": "KLM",
+  "seatguru": "https://www.seatguru.com/airlines/KLM/information.php",
+  "url": "https://www.klm.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/KLM"
+}

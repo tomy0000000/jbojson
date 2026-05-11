@@ -1,0 +1,15 @@
+{
+  "alliance": "One World",
+  "apple-wallet-pass": null,
+  "countries": [
+    "jo"
+  ],
+  "defunct": false,
+  "iata": "RJ",
+  "icao": "RJA",
+  "lcc": false,
+  "name": "Royal Jordanian",
+  "seatguru": "https://www.seatguru.com/airlines/Royal_Jordanian/information.php",
+  "url": "https://www.rj.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Royal_Jordanian"
+}

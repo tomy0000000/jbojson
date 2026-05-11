@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "jp"
+  ],
+  "defunct": false,
+  "iata": "MM",
+  "icao": "APJ",
+  "lcc": true,
+  "name": "Peach Aviation",
+  "seatguru": "https://www.seatguru.com/airlines/Peach/information.php",
+  "url": "https://www.flypeach.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Peach_Aviation"
+}

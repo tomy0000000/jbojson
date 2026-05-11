@@ -1,0 +1,15 @@
+{
+  "alliance": "SkyTeam",
+  "apple-wallet-pass": null,
+  "countries": [
+    "es"
+  ],
+  "defunct": false,
+  "iata": "UX",
+  "icao": "AEA",
+  "lcc": false,
+  "name": "Air Europa",
+  "seatguru": "https://www.seatguru.com/airlines/Air_Europa/information.php",
+  "url": "https://www.aireuropa.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Air_Europa"
+}

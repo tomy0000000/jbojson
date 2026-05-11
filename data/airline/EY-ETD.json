@@ -1,0 +1,26 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "ae"
+  ],
+  "defunct": false,
+  "iata": "EY",
+  "icao": "ETD",
+  "internet": [
+    {
+      "aircraft": [
+        "A350",
+        "B777",
+        "B787"
+      ],
+      "name": "AeroMobile",
+      "url": "https://www.aeromobile.net/airlines/etihad-airways/"
+    }
+  ],
+  "lcc": false,
+  "name": "Etihad Airways",
+  "seatguru": "https://www.seatguru.com/airlines/Etihad_Airways/information.php",
+  "url": "https://www.etihad.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Etihad_Airways"
+}

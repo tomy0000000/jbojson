@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "us"
+  ],
+  "defunct": false,
+  "iata": "XP",
+  "icao": "VXP",
+  "lcc": true,
+  "name": "Avelo Airlines",
+  "seatguru": null,
+  "url": "https://www.aveloair.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Avelo_Airlines"
+}

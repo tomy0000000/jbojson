@@ -1,0 +1,21 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "at"
+  ],
+  "defunct": false,
+  "iata": "OS",
+  "icao": "AUA",
+  "internet": [
+    {
+      "name": "Viasat",
+      "url": "https://news.viasat.com/newsroom/press-releases/lufthansa-group-selects-viasat-for-in-flight-connectivity-upgrades"
+    }
+  ],
+  "lcc": false,
+  "name": "Austrian Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Austrian_Airlines/information.php",
+  "url": "https://www.austrian.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Austrian_Airlines"
+}

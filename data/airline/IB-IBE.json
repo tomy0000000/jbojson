@@ -1,0 +1,15 @@
+{
+  "alliance": "One World",
+  "apple-wallet-pass": null,
+  "countries": [
+    "es"
+  ],
+  "defunct": false,
+  "iata": "IB",
+  "icao": "IBE",
+  "lcc": false,
+  "name": "Iberia",
+  "seatguru": "https://www.seatguru.com/airlines/Iberia/information.php",
+  "url": "https://www.iberia.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Iberia_(airline)"
+}

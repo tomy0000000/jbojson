@@ -1,0 +1,15 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "pa"
+  ],
+  "defunct": false,
+  "iata": "CM",
+  "icao": "CMP",
+  "lcc": false,
+  "name": "Copa Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Copa_Airlines/information.php",
+  "url": "https://www.copaair.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Copa_Airlines"
+}

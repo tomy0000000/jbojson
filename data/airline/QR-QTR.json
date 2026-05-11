@@ -1,0 +1,15 @@
+{
+  "alliance": "One World",
+  "apple-wallet-pass": null,
+  "countries": [
+    "qa"
+  ],
+  "defunct": false,
+  "iata": "QR",
+  "icao": "QTR",
+  "lcc": false,
+  "name": "Qatar Airways",
+  "seatguru": "https://www.seatguru.com/airlines/Qatar_Airways/information.php",
+  "url": "https://www.qatarairways.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Qatar_Airways"
+}

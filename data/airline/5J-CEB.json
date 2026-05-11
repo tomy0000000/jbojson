@@ -1,0 +1,15 @@
+{
+  "alliance": "Value Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "ph"
+  ],
+  "defunct": false,
+  "iata": "5J",
+  "icao": "CEB",
+  "lcc": true,
+  "name": "Cebu Pacific Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Cebu_Pacific/information.php",
+  "url": "https://www.cebupacificair.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Cebu_Pacific"
+}

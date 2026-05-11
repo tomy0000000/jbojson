@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "tw"
+  ],
+  "defunct": false,
+  "iata": "IT",
+  "icao": "TTW",
+  "lcc": true,
+  "name": "Tigerair Taiwan",
+  "seatguru": null,
+  "url": "https://www.tigerairtw.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tigerair_Taiwan"
+}

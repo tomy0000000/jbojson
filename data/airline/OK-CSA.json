@@ -1,0 +1,15 @@
+{
+  "alliance": "SkyTeam",
+  "apple-wallet-pass": null,
+  "countries": [
+    "cz"
+  ],
+  "defunct": false,
+  "iata": "OK",
+  "icao": "CSA",
+  "lcc": false,
+  "name": "Czech Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Czech_Airlines/information.php",
+  "url": "https://www.csa.cz/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Czech_Airlines"
+}

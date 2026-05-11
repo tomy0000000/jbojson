@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "no"
+  ],
+  "defunct": false,
+  "iata": "DY",
+  "icao": "NOZ",
+  "lcc": true,
+  "name": "Norwegian Air Shuttle",
+  "seatguru": "https://www.seatguru.com/airlines/Norwegian_Air_Shuttle/information.php",
+  "url": "https://www.norwegian.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Norwegian_Air_Shuttle"
+}

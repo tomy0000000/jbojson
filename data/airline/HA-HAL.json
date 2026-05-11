@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "us"
+  ],
+  "defunct": false,
+  "iata": "HA",
+  "icao": "HAL",
+  "lcc": false,
+  "name": "Hawaiian Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Hawaiian_Airlines/information.php",
+  "url": "https://www.hawaiianairlines.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Hawaiian_Airlines"
+}

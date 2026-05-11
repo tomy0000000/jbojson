@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "ci"
+  ],
+  "defunct": false,
+  "iata": "LA",
+  "icao": "LAN",
+  "lcc": false,
+  "name": "LATAM Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/LATAM_Chile/information.php",
+  "url": "http://www.latamairlines.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/LATAM_Airlines"
+}

@@ -1,0 +1,27 @@
+{
+  "alliance": "SkyTeam",
+  "apple-wallet-pass": null,
+  "countries": [
+    "kr"
+  ],
+  "defunct": false,
+  "iata": "KE",
+  "icao": "KAL",
+  "internet": [
+    {
+      "aircraft": [
+        "B737",
+        "B787",
+        "A321",
+        "A350"
+      ],
+      "name": "Viasat",
+      "url": "https://www.koreanair.com/contents/plan-your-travel/in-flight-experience/wi-fi"
+    }
+  ],
+  "lcc": false,
+  "name": "Korean Air",
+  "seatguru": "https://www.seatguru.com/airlines/Korean_Air/information.php",
+  "url": "https://www.koreanair.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Korean_Air"
+}

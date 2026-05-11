@@ -1,0 +1,31 @@
+{
+  "alliance": "SkyTeam",
+  "apple-wallet-pass": true,
+  "countries": [
+    "us"
+  ],
+  "defunct": false,
+  "iata": "DL",
+  "icao": "DAL",
+  "internet": [
+    {
+      "name": "Viasat",
+      "url": "https://news.delta.com/delta-takes-fast-free-wi-fi-international"
+    }
+  ],
+  "lcc": false,
+  "name": "Delta Air Lines",
+  "offers": [
+    {
+      "name": "Flight Deals",
+      "url": "https://www.delta.com/us/en/flight-deals/current-flight-deals"
+    },
+    {
+      "name": "Premium Deals",
+      "url": "https://www.delta.com/us/en/flight-deals/premium-cabin-flight-deals"
+    }
+  ],
+  "seatguru": "https://www.seatguru.com/airlines/Delta_Airlines/information.php",
+  "url": "https://www.delta.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Delta_Air_Lines"
+}

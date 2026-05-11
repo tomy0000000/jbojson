@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "jp"
+  ],
+  "defunct": false,
+  "iata": "ZG",
+  "icao": "TZP",
+  "lcc": true,
+  "name": "Zipair",
+  "seatguru": null,
+  "url": "https://www.zipair.net/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Zipair_Tokyo"
+}

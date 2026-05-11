@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "cn"
+  ],
+  "defunct": false,
+  "iata": "CZ",
+  "icao": "CSN",
+  "lcc": false,
+  "name": "China Southern Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/China_Southern/information.php",
+  "url": "https://www.csair.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/China_Southern_Airlines"
+}

@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "kr"
+  ],
+  "defunct": false,
+  "iata": "YP",
+  "icao": "APZ",
+  "lcc": true,
+  "name": "Air Premia",
+  "seatguru": null,
+  "url": "https://www.airpremia.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Air_Premia"
+}

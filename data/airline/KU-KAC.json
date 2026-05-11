@@ -1,0 +1,23 @@
+{
+  "alliance": null,
+  "countries": [
+    "kw"
+  ],
+  "defunct": false,
+  "iata": "KU",
+  "icao": "KAC",
+  "internet": [
+    {
+      "aircraft": [
+        "B777"
+      ],
+      "name": "AeroMobile",
+      "url": "https://www.aeromobile.net/airlines/kuwait-airways/"
+    }
+  ],
+  "lcc": false,
+  "name": "Kuwait Airways",
+  "seatguru": null,
+  "url": "http://www.kuwaitairways.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kuwait_Airways"
+}

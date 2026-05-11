@@ -1,0 +1,15 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "in"
+  ],
+  "defunct": false,
+  "iata": "AI",
+  "icao": "AIC",
+  "lcc": false,
+  "name": "Air India",
+  "seatguru": "https://www.seatguru.com/airlines/Air_India/information.php",
+  "url": "https://www.airindia.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Air_India"
+}

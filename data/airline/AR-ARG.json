@@ -1,0 +1,15 @@
+{
+  "alliance": "SkyTeam",
+  "apple-wallet-pass": null,
+  "countries": [
+    "ar"
+  ],
+  "defunct": false,
+  "iata": "AR",
+  "icao": "ARG",
+  "lcc": false,
+  "name": "Aerolíneas Argentinas",
+  "seatguru": "https://www.seatguru.com/airlines/Aerolineas_Argentinas/information.php",
+  "url": "https://www.aerolineas.com.ar/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Aerol%C3%ADneas_Argentinas"
+}

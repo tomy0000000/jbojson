@@ -1,0 +1,15 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "co"
+  ],
+  "defunct": false,
+  "iata": "AV",
+  "icao": "AVA",
+  "lcc": false,
+  "name": "Avianca",
+  "seatguru": null,
+  "url": "https://www.avianca.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Avianca"
+}

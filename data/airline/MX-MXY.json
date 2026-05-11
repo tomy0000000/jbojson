@@ -1,0 +1,21 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "us"
+  ],
+  "defunct": false,
+  "iata": "MX",
+  "icao": "MXY",
+  "internet": [
+    {
+      "name": "Viasat",
+      "url": "https://www.flybreeze.com/support?a=Getting-Connected-to-Inflight-WiFi---id--h_MewxojSZ60wvTu5QGcdg"
+    }
+  ],
+  "lcc": true,
+  "name": "Breeze Airways",
+  "seatguru": null,
+  "url": "https://www.flybreeze.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Breeze_Airways"
+}

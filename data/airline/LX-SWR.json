@@ -1,0 +1,30 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "ch"
+  ],
+  "defunct": false,
+  "iata": "LX",
+  "icao": "SWR",
+  "internet": [
+    {
+      "aircraft": [
+        "A330",
+        "A340",
+        "B777"
+      ],
+      "name": "AeroMobile",
+      "url": "https://www.aeromobile.net/airlines/swiss/"
+    },
+    {
+      "name": "Viasat",
+      "url": "https://news.viasat.com/newsroom/press-releases/lufthansa-group-selects-viasat-for-in-flight-connectivity-upgrades"
+    }
+  ],
+  "lcc": false,
+  "name": "Swiss International Air Lines",
+  "seatguru": "https://www.seatguru.com/airlines/Swiss_Airlines/information.php",
+  "url": "https://www.swiss.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Swiss_International_Air_Lines"
+}

@@ -1,0 +1,21 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "is"
+  ],
+  "defunct": false,
+  "iata": "FI",
+  "icao": "ICE",
+  "internet": [
+    {
+      "name": "Viasat",
+      "url": "https://news.viasat.com/newsroom/press-releases/viasat-chosen-to-power-inflight-connectivity-on-icelandairs-new-airbus-aircraft"
+    }
+  ],
+  "lcc": true,
+  "name": "Icelandair",
+  "seatguru": "https://www.seatguru.com/airlines/Icelandair/information.php",
+  "url": "https://www.icelandair.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Icelandair"
+}

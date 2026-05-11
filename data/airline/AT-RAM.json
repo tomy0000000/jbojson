@@ -1,0 +1,15 @@
+{
+  "alliance": "One World",
+  "apple-wallet-pass": null,
+  "countries": [
+    "ma"
+  ],
+  "defunct": false,
+  "iata": "AT",
+  "icao": "RAM",
+  "lcc": false,
+  "name": "Royal Air Maroc",
+  "seatguru": "https://www.seatguru.com/airlines/Royal_Air_Maroc/information.php",
+  "url": "https://www.royalairmaroc.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Royal_Air_Maroc"
+}

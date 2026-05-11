@@ -1,0 +1,15 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "nz"
+  ],
+  "defunct": false,
+  "iata": "NZ",
+  "icao": "ANZ",
+  "lcc": false,
+  "name": "Air New Zealand",
+  "seatguru": "https://www.seatguru.com/airlines/Air_New_Zealand/information.php",
+  "url": "https://www.airnewzealand.co.nz/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Air_New_Zealand"
+}

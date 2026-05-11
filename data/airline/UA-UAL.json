@@ -1,0 +1,27 @@
+{
+  "aerolopa": "https://www.aerolopa.com/ua",
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": true,
+  "countries": [
+    "us"
+  ],
+  "defunct": false,
+  "iata": "UA",
+  "icao": "UAL",
+  "in-flight-entertainment": "https://unitedprivatescreening.com/",
+  "lcc": false,
+  "name": "United Airlines",
+  "offers": [
+    {
+      "name": "Flight deals",
+      "url": "https://www.united.com/en-us/flights"
+    },
+    {
+      "name": "Weekly deals from San Francisco",
+      "url": "https://www.united.com/en-us/weekly-deals-from-san-francisco"
+    }
+  ],
+  "seatguru": "https://www.seatguru.com/airlines/United_Airlines/information.php",
+  "url": "https://www.united.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/United_Airlines"
+}

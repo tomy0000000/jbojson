@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "sg"
+  ],
+  "defunct": false,
+  "iata": "3K",
+  "icao": "JSA",
+  "lcc": true,
+  "name": "Jetstar Asia Airways",
+  "seatguru": null,
+  "url": "https://www.jetstar.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Jetstar_Asia_Airways"
+}

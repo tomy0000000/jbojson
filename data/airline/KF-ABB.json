@@ -1,0 +1,23 @@
+{
+  "alliance": null,
+  "countries": [
+    "be"
+  ],
+  "defunct": false,
+  "iata": "KF",
+  "icao": "ABB",
+  "internet": [
+    {
+      "aircraft": [
+        "A330neo"
+      ],
+      "name": "AeroMobile",
+      "url": "https://www.aeromobile.net/airlines/air-belgium/"
+    }
+  ],
+  "lcc": false,
+  "name": "Air Belgium",
+  "seatguru": "https://www.seatguru.com/airlines/Air_Belgium/information.php",
+  "url": "http://www.airbelgium.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Air_Belgium"
+}

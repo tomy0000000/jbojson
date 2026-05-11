@@ -1,0 +1,15 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "et"
+  ],
+  "defunct": false,
+  "iata": "ET",
+  "icao": "ETH",
+  "lcc": false,
+  "name": "Ethiopian Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Ethiopian_Airlines/information.php",
+  "url": "https://www.ethiopianairlines.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Ethiopian_Airlines"
+}

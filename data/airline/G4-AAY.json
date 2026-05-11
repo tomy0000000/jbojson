@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "us"
+  ],
+  "defunct": false,
+  "iata": "G4",
+  "icao": "AAY",
+  "lcc": true,
+  "name": "Allegiant Air",
+  "seatguru": "https://www.seatguru.com/airlines/Allegiant_Air/information.php",
+  "url": "https://www.allegiantair.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Allegiant_Air"
+}

@@ -1,0 +1,24 @@
+{
+  "alliance": "One World",
+  "apple-wallet-pass": null,
+  "countries": [
+    "my"
+  ],
+  "defunct": false,
+  "iata": "MH",
+  "icao": "MAS",
+  "internet": [
+    {
+      "aircraft": [
+        "A350"
+      ],
+      "name": "AeroMobile",
+      "url": "https://www.aeromobile.net/airlines/malaysia-airlines/"
+    }
+  ],
+  "lcc": false,
+  "name": "Malaysia Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Malaysia_Airlines/information.php",
+  "url": "https://www.malaysiaairlines.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Malaysia_Airlines"
+}

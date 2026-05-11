@@ -1,0 +1,15 @@
+{
+  "alliance": "Value Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "sg"
+  ],
+  "defunct": false,
+  "iata": "TR",
+  "icao": "TGW",
+  "lcc": true,
+  "name": "Scoot",
+  "seatguru": "https://www.seatguru.com/airlines/Scoot_Airlines/information.php",
+  "url": "https://www.flyscoot.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Scoot"
+}

@@ -1,0 +1,15 @@
+{
+  "alliance": "One World",
+  "apple-wallet-pass": null,
+  "countries": [
+    "gb"
+  ],
+  "defunct": false,
+  "iata": "BA",
+  "icao": "BAW",
+  "lcc": false,
+  "name": "British Airways",
+  "seatguru": "https://www.seatguru.com/airlines/British_Airways/information.php",
+  "url": "https://www.britishairways.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/British_Airways"
+}

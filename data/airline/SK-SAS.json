@@ -1,0 +1,26 @@
+{
+  "alliance": "SkyTeam",
+  "apple-wallet-pass": null,
+  "countries": [
+    "dk",
+    "no",
+    "se"
+  ],
+  "defunct": false,
+  "iata": "SK",
+  "icao": "SAS",
+  "internet": [
+    {
+      "aircraft": [
+        "A330"
+      ],
+      "name": "AeroMobile",
+      "url": "https://www.aeromobile.net/airlines/sas-scandinavian-airlines/"
+    }
+  ],
+  "lcc": false,
+  "name": "Scandinavian Airlines",
+  "seatguru": null,
+  "url": "https://www.flysas.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Scandinavian_Airlines"
+}

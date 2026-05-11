@@ -1,0 +1,15 @@
+{
+  "alliance": "SkyTeam",
+  "apple-wallet-pass": null,
+  "countries": [
+    "tw"
+  ],
+  "defunct": false,
+  "iata": "CI",
+  "icao": "CAL",
+  "lcc": false,
+  "name": "China Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/China_Airlines/information.php",
+  "url": "https://www.china-airlines.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/China_Airlines"
+}

@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "us"
+  ],
+  "defunct": false,
+  "iata": "NK",
+  "icao": "NKS",
+  "lcc": true,
+  "name": "Spirit Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Spirit_Airlines/information.php",
+  "url": "https://www.spirit.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Spirit_Airlines"
+}

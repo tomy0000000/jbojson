@@ -1,0 +1,15 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "gr"
+  ],
+  "defunct": false,
+  "iata": "A3",
+  "icao": "AEE",
+  "lcc": false,
+  "name": "Aegean Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Aegean_Airlines/information.php",
+  "url": "https://en.aegeanair.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Aegean_Airlines"
+}

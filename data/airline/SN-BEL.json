@@ -1,0 +1,15 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "be"
+  ],
+  "defunct": false,
+  "iata": "SN",
+  "icao": "BEL",
+  "lcc": false,
+  "name": "Brussels Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Brussels_Airlines/information.php",
+  "url": "https://www.brusselsairlines.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Brussels_Airlines"
+}

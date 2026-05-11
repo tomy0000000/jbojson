@@ -1,0 +1,15 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "cn"
+  ],
+  "defunct": false,
+  "iata": "ZH",
+  "icao": "CSZ",
+  "lcc": false,
+  "name": "Shenzhen Airlines",
+  "seatguru": null,
+  "url": "https://global.shenzhenair.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Shenzhen_Airlines"
+}

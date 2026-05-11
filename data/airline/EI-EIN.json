@@ -1,0 +1,23 @@
+{
+  "alliance": null,
+  "countries": [
+    "ie"
+  ],
+  "defunct": false,
+  "iata": "EI",
+  "icao": "EIN",
+  "internet": [
+    {
+      "aircraft": [
+        "A330"
+      ],
+      "name": "AeroMobile",
+      "url": "https://www.aeromobile.net/airlines/aer-lingus/"
+    }
+  ],
+  "lcc": false,
+  "name": "Aer Lingus",
+  "seatguru": "https://www.seatguru.com/airlines/Aer_Lingus/information.php",
+  "url": "https://www.aerlingus.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Aer_Lingus"
+}

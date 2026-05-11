@@ -1,0 +1,16 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "us"
+  ],
+  "defunct": false,
+  "iata": "WN",
+  "icao": "SWA",
+  "in-flight-entertainment": "https://www.southwest.com/inflight-entertainment-portal/",
+  "lcc": true,
+  "name": "Southwest Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Southwest_Airlines/information.php",
+  "url": "https://www.southwest.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Southwest_Airlines"
+}

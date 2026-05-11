@@ -1,0 +1,15 @@
+{
+  "alliance": "SkyTeam",
+  "apple-wallet-pass": null,
+  "countries": [
+    "mx"
+  ],
+  "defunct": false,
+  "iata": "AM",
+  "icao": "AMX",
+  "lcc": false,
+  "name": "Aeroméxico",
+  "seatguru": "https://www.seatguru.com/airlines/AeroMexico/information.php",
+  "url": "https://www.aeromexico.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Aerom%C3%A9xico"
+}

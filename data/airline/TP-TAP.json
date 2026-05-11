@@ -1,0 +1,24 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "pt"
+  ],
+  "defunct": false,
+  "iata": "TP",
+  "icao": "TAP",
+  "internet": [
+    {
+      "aircraft": [
+        "A330"
+      ],
+      "name": "AeroMobile",
+      "url": "https://www.aeromobile.net/airlines/tap-air-portugal/"
+    }
+  ],
+  "lcc": false,
+  "name": "TAP Air Portugal",
+  "seatguru": "https://www.seatguru.com/airlines/TAP_Portugal/information.php",
+  "url": "https://www.flytap.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/TAP_Air_Portugal"
+}

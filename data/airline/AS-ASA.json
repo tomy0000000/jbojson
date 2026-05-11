@@ -1,0 +1,15 @@
+{
+  "alliance": "One World",
+  "apple-wallet-pass": null,
+  "countries": [
+    "us"
+  ],
+  "defunct": false,
+  "iata": "AS",
+  "icao": "ASA",
+  "lcc": false,
+  "name": "Alaska Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Alaska_Airlines/information.php",
+  "url": "https://www.alaskaair.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Alaska_Airlines"
+}

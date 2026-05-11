@@ -1,0 +1,24 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "eg"
+  ],
+  "defunct": false,
+  "iata": "MS",
+  "icao": "MSR",
+  "internet": [
+    {
+      "aircraft": [
+        "B787"
+      ],
+      "name": "AeroMobile",
+      "url": "https://www.aeromobile.net/airlines/egyptair/"
+    }
+  ],
+  "lcc": false,
+  "name": "Egyptair",
+  "seatguru": "https://www.seatguru.com/airlines/Egyptair/information.php",
+  "url": "https://www.egyptair.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Egyptair"
+}

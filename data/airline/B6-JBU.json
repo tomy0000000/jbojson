@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": true,
+  "countries": [
+    "us"
+  ],
+  "defunct": false,
+  "iata": "B6",
+  "icao": "JBU",
+  "lcc": true,
+  "name": "JetBlue Airways",
+  "seatguru": "https://www.seatguru.com/airlines/JetBlue_Airways/information.php",
+  "url": "https://www.jetblue.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/JetBlue"
+}

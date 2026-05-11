@@ -1,0 +1,15 @@
+{
+  "alliance": "One World",
+  "apple-wallet-pass": null,
+  "countries": [
+    "fi"
+  ],
+  "defunct": false,
+  "iata": "AY",
+  "icao": "FIN",
+  "lcc": false,
+  "name": "Finnair",
+  "seatguru": "https://www.seatguru.com/airlines/Finnair/information.php",
+  "url": "https://www.finnair.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Finnair"
+}

@@ -1,0 +1,15 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": true,
+  "countries": [
+    "ca"
+  ],
+  "defunct": false,
+  "iata": "AC",
+  "icao": "ACA",
+  "lcc": false,
+  "name": "Air Canada",
+  "seatguru": "https://www.seatguru.com/airlines/Air_Canada/information.php",
+  "url": "http://www.aircanada.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Air_Canada"
+}

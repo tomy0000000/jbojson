@@ -1,0 +1,24 @@
+{
+  "alliance": "One World",
+  "apple-wallet-pass": null,
+  "countries": [
+    "hk"
+  ],
+  "defunct": false,
+  "iata": "CX",
+  "icao": "CPA",
+  "internet": [
+    {
+      "aircraft": [
+        "A350"
+      ],
+      "name": "AeroMobile",
+      "url": "https://www.aeromobile.net/airlines/cathay-pacific/"
+    }
+  ],
+  "lcc": false,
+  "name": "Cathay Pacific",
+  "seatguru": "https://www.seatguru.com/airlines/Cathay_Pacific_Airways/information.php",
+  "url": "https://www.cathaypacific.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Cathay_Pacific"
+}

@@ -1,0 +1,15 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "za"
+  ],
+  "defunct": false,
+  "iata": "SA",
+  "icao": "SAA",
+  "lcc": false,
+  "name": "South African Airways",
+  "seatguru": "https://www.seatguru.com/airlines/South_African_Airways/information.php",
+  "url": "http://www.flysaa.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/South_African_Airways"
+}

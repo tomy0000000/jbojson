@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": true,
+  "countries": [
+    "ph"
+  ],
+  "defunct": false,
+  "iata": "Z2",
+  "icao": "APG",
+  "lcc": true,
+  "name": "Philippines AirAsia",
+  "seatguru": null,
+  "url": "https://www.airasia.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Philippines_AirAsia"
+}

@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "us"
+  ],
+  "defunct": false,
+  "iata": "SY",
+  "icao": "SCX",
+  "lcc": true,
+  "name": "Sun Country Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Sun_Country/information.php",
+  "url": "https://www.suncountry.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sun_Country_Airlines"
+}

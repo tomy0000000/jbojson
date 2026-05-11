@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "de"
+  ],
+  "defunct": false,
+  "iata": "DE",
+  "icao": "CFG",
+  "lcc": true,
+  "name": "Condor",
+  "seatguru": "https://www.seatguru.com/airlines/Condor_Flugdienst/information.php",
+  "url": "https://www.condor.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Condor_(airline)"
+}

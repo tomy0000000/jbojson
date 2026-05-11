@@ -1,0 +1,24 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "kr"
+  ],
+  "defunct": false,
+  "iata": "OZ",
+  "icao": "AAR",
+  "internet": [
+    {
+      "aircraft": [
+        "A350"
+      ],
+      "name": "AeroMobile",
+      "url": "https://www.aeromobile.net/airlines/asiana-airlines/"
+    }
+  ],
+  "lcc": false,
+  "name": "Asiana Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Asiana/information.php",
+  "url": "https://flyasiana.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Asiana_Airlines"
+}

@@ -1,0 +1,15 @@
+{
+  "alliance": "SkyTeam",
+  "apple-wallet-pass": null,
+  "countries": [
+    "vn"
+  ],
+  "defunct": false,
+  "iata": "VN",
+  "icao": "HVN",
+  "lcc": false,
+  "name": "Vietnam Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Vietnam_Airlines/information.php",
+  "url": "https://www.vietnamairlines.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Vietnam_Airlines"
+}

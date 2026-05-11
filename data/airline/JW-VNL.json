@@ -1,0 +1,15 @@
+{
+  "alliance": "Value Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "jp"
+  ],
+  "defunct": true,
+  "iata": "JW",
+  "icao": "VNL",
+  "lcc": true,
+  "name": "Vanilla Air",
+  "seatguru": "https://www.seatguru.com/airlines/Vanilla_Air/information.php",
+  "url": "https://www.vanilla-air.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Vanilla_Air"
+}

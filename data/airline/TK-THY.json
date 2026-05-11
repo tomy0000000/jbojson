@@ -1,0 +1,27 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": true,
+  "countries": [
+    "tr"
+  ],
+  "defunct": false,
+  "iata": "TK",
+  "icao": "THY",
+  "internet": [
+    {
+      "aircraft": [
+        "A330",
+        "A350",
+        "B777",
+        "B787"
+      ],
+      "name": "AeroMobile",
+      "url": "https://www.aeromobile.net/airlines/turkish-airlines/"
+    }
+  ],
+  "lcc": false,
+  "name": "Turkish Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Turkish_Airlines/information.php",
+  "url": "https://www.turkishairlines.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Turkish_Airlines"
+}

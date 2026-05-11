@@ -1,0 +1,15 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "jp"
+  ],
+  "defunct": false,
+  "iata": "NH",
+  "icao": "ANA",
+  "lcc": false,
+  "name": "All Nippon Airways",
+  "seatguru": "https://www.seatguru.com/airlines/ANA/information.php",
+  "url": "https://www.ana.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/All_Nippon_Airways"
+}

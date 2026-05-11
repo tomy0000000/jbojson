@@ -1,0 +1,15 @@
+{
+  "alliance": "SkyTeam",
+  "apple-wallet-pass": null,
+  "countries": [
+    "ke"
+  ],
+  "defunct": false,
+  "iata": "KQ",
+  "icao": "KQA",
+  "lcc": false,
+  "name": "Kenya Airways",
+  "seatguru": "https://www.seatguru.com/airlines/Kenya_Airways/information.php",
+  "url": "https://www.kenya-airways.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kenya_Airways"
+}

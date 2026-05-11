@@ -1,0 +1,32 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "de"
+  ],
+  "defunct": false,
+  "iata": "LH",
+  "icao": "DLH",
+  "internet": [
+    {
+      "aircraft": [
+        "A330",
+        "A340",
+        "A350",
+        "A380",
+        "B747"
+      ],
+      "name": "AeroMobile",
+      "url": "https://www.aeromobile.net/airlines/lufthansa/"
+    },
+    {
+      "name": "Viasat",
+      "url": "https://news.viasat.com/newsroom/press-releases/lufthansa-group-selects-viasat-for-in-flight-connectivity-upgrades"
+    }
+  ],
+  "lcc": false,
+  "name": "Lufthansa",
+  "seatguru": "https://www.seatguru.com/airlines/Lufthansa/information.php",
+  "url": "https://www.lufthansa.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Lufthansa"
+}

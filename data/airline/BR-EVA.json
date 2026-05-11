@@ -1,0 +1,24 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "tw"
+  ],
+  "defunct": false,
+  "iata": "BR",
+  "icao": "EVA",
+  "internet": [
+    {
+      "aircraft": [
+        "B777"
+      ],
+      "name": "AeroMobile",
+      "url": "https://www.aeromobile.net/airlines/eva-air/"
+    }
+  ],
+  "lcc": false,
+  "name": "EVA Air",
+  "seatguru": "https://www.seatguru.com/airlines/Eva_Airways/information.php",
+  "url": "https://www.evaair.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/EVA_Air"
+}

@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "gb"
+  ],
+  "defunct": false,
+  "iata": "BY",
+  "icao": "TOM",
+  "lcc": true,
+  "name": "TUI Airways",
+  "seatguru": "https://www.seatguru.com/airlines/Thomson_Airways/information.php",
+  "url": "https://www.tui.co.uk/",
+  "wikipedia": "https://en.wikipedia.org/wiki/TUI_Airways"
+}

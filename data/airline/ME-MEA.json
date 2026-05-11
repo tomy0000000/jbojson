@@ -1,0 +1,15 @@
+{
+  "alliance": "SkyTeam",
+  "apple-wallet-pass": null,
+  "countries": [
+    "lb"
+  ],
+  "defunct": false,
+  "iata": "ME",
+  "icao": "MEA",
+  "lcc": false,
+  "name": "Middle East Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Middle_East_Airlines/information.php",
+  "url": "https://www.mea.com.lb/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Middle_East_Airlines"
+}

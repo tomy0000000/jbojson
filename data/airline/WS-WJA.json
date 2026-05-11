@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "ca"
+  ],
+  "defunct": false,
+  "iata": "WS",
+  "icao": "WJA",
+  "lcc": true,
+  "name": "WestJet Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Westjet/information.php",
+  "url": "https://www.westjet.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/WestJet"
+}

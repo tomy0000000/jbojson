@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "au"
+  ],
+  "defunct": false,
+  "iata": "JQ",
+  "icao": "JST",
+  "lcc": true,
+  "name": "Jetstar",
+  "seatguru": "https://www.seatguru.com/airlines/Jetstar/information.php",
+  "url": "https://www.jetstar.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Jetstar"
+}

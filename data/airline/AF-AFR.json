@@ -1,0 +1,15 @@
+{
+  "alliance": "SkyTeam",
+  "apple-wallet-pass": true,
+  "countries": [
+    "fr"
+  ],
+  "defunct": false,
+  "iata": "AF",
+  "icao": "AFR",
+  "lcc": false,
+  "name": "Air France",
+  "seatguru": "https://www.seatguru.com/airlines/Air_France/information.php",
+  "url": "https://wwws.airfrance.fr/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Air_France"
+}

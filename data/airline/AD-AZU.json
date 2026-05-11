@@ -1,0 +1,21 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "br"
+  ],
+  "defunct": false,
+  "iata": "AD",
+  "icao": "AZU",
+  "internet": [
+    {
+      "name": "Viasat",
+      "url": "https://news.viasat.com/newsroom/press-releases/azul-entrusts-viasat-to-deliver-advanced-in-flight-connectivity-to-airbus-a330-900neo-fleet"
+    }
+  ],
+  "lcc": true,
+  "name": "Azul Linhas Aereas",
+  "seatguru": "https://www.seatguru.com/airlines/Azul_Airlines/information.php",
+  "url": "https://www.voeazul.com.br/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Azul_Brazilian_Airlines"
+}

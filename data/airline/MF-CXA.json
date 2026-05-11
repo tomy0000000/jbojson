@@ -1,0 +1,15 @@
+{
+  "alliance": "SkyTeam",
+  "apple-wallet-pass": null,
+  "countries": [
+    "cn"
+  ],
+  "defunct": false,
+  "iata": "MF",
+  "icao": "CXA",
+  "lcc": false,
+  "name": "XiamenAir",
+  "seatguru": "https://www.seatguru.com/airlines/Xiamen_Airlines/information.php",
+  "url": "https://www.xiamenair.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/XiamenAir"
+}

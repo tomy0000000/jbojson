@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "id"
+  ],
+  "defunct": false,
+  "iata": "JT",
+  "icao": "MXD",
+  "lcc": true,
+  "name": "Lion Air",
+  "seatguru": "https://www.seatguru.com/airlines/Lion_Air/information.php",
+  "url": "http://www.lionair.co.id/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Lion_Air"
+}

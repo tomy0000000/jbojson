@@ -1,0 +1,15 @@
+{
+  "alliance": null,
+  "apple-wallet-pass": null,
+  "countries": [
+    "de"
+  ],
+  "defunct": false,
+  "iata": "EW",
+  "icao": "EWG",
+  "lcc": true,
+  "name": "Eurowings",
+  "seatguru": "https://www.seatguru.com/airlines/Eurowings_Airlines/information.php",
+  "url": "https://www.eurowings.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Eurowings"
+}

@@ -1,0 +1,26 @@
+{
+  "alliance": "Star Alliance",
+  "apple-wallet-pass": null,
+  "countries": [
+    "sg"
+  ],
+  "defunct": false,
+  "iata": "SQ",
+  "icao": "SIA",
+  "internet": [
+    {
+      "aircraft": [
+        "A350",
+        "B777",
+        "B787"
+      ],
+      "name": "AeroMobile",
+      "url": "https://www.aeromobile.net/airlines/singapore-airlines/"
+    }
+  ],
+  "lcc": false,
+  "name": "Singapore Airlines",
+  "seatguru": "https://www.seatguru.com/airlines/Singapore_Air/information.php",
+  "url": "https://www.singaporeair.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Singapore_Airlines"
+}
