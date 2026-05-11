@@ -4,6 +4,12 @@
   "additionalProperties": false,
   "description": "Airline Information",
   "properties": {
+    "$id": {
+      "type": "string"
+    },
+    "$schema": {
+      "type": "string"
+    },
     "aerolopa": {
       "description": "The AeroLOPA URL for the airline's seat maps",
       "format": "uri",
@@ -11,13 +17,28 @@
     },
     "alliance": {
       "description": "The airline alliance the airline belongs to",
-      "enum": [null, "One World", "SkyTeam", "Star Alliance", "Value Alliance"],
-      "type": ["string", "null"]
+      "enum": [
+        null,
+        "One World",
+        "SkyTeam",
+        "Star Alliance",
+        "Value Alliance"
+      ],
+      "type": [
+        "null",
+        "string"
+      ]
     },
-    "apple-wallet-pass": {
+    "appleWalletPass": {
       "description": "Whether the airline supports Apple Wallet boarding passes",
-      "enum": [true, null],
-      "type": ["boolean", "null"]
+      "enum": [
+        true,
+        null
+      ],
+      "type": [
+        "boolean",
+        "null"
+      ]
     },
     "countries": {
       "description": "The ISO 3166-1 alpha-2 country codes the airline operates from",
@@ -44,7 +65,7 @@
       "pattern": "^[A-Z]{3}$",
       "type": "string"
     },
-    "in-flight-entertainment": {
+    "inFlightEntertainment": {
       "description": "The URL to the airline's in-flight entertainment portal",
       "format": "uri",
       "type": "string"
@@ -75,7 +96,10 @@
             "type": "string"
           }
         },
-        "required": ["name", "url"],
+        "required": [
+          "name",
+          "url"
+        ],
         "type": "object"
       },
       "minItems": 1,
@@ -105,7 +129,10 @@
             "type": "string"
           }
         },
-        "required": ["name", "url"],
+        "required": [
+          "name",
+          "url"
+        ],
         "type": "object"
       },
       "minItems": 1,
@@ -114,7 +141,10 @@
     "seatguru": {
       "description": "The SeatGuru URL for the airline",
       "format": "uri",
-      "type": ["string", "null"]
+      "type": [
+        "null",
+        "string"
+      ]
     },
     "url": {
       "description": "The airline's official website",
@@ -128,6 +158,8 @@
     }
   },
   "required": [
+    "$id",
+    "$schema",
     "alliance",
     "countries",
     "defunct",
