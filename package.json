@@ -19,7 +19,8 @@
   "scripts": {
     "format": "eslint --fix",
     "lint": "eslint",
-    "test": "tsx --test test/**/*.test.ts"
+    "test": "tsx --test test/**/*.test.ts",
+    "validate": "tsx scripts/validate.ts"
   },
   "type": "module",
   "version": "1.0.0"
