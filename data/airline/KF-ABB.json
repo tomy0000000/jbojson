@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/tomy0000000/jbojson/refs/tags/2026.05.10/schema/airline.json",
   "alliance": null,
   "countries": [
     "be"

@@ -1,13 +1,14 @@
 {
+  "$schema": "https://raw.githubusercontent.com/tomy0000000/jbojson/refs/tags/2026.05.10/schema/airline.json",
   "alliance": null,
-  "apple-wallet-pass": null,
+  "appleWalletPass": null,
   "countries": [
     "us"
   ],
   "defunct": false,
   "iata": "WN",
   "icao": "SWA",
-  "in-flight-entertainment": "https://www.southwest.com/inflight-entertainment-portal/",
+  "inFlightEntertainment": "https://www.southwest.com/inflight-entertainment-portal/",
   "lcc": true,
   "name": "Southwest Airlines",
   "seatguru": "https://www.seatguru.com/airlines/Southwest_Airlines/information.php",

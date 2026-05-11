@@ -1,13 +1,14 @@
 {
+  "$schema": "https://raw.githubusercontent.com/tomy0000000/jbojson/refs/tags/2026.05.10/schema/airline.json",
   "alliance": "One World",
-  "apple-wallet-pass": true,
+  "appleWalletPass": true,
   "countries": [
     "us"
   ],
   "defunct": false,
   "iata": "AA",
   "icao": "AAL",
-  "in-flight-entertainment": "https://entertainment.aa.com/",
+  "inFlightEntertainment": "https://entertainment.aa.com/",
   "lcc": false,
   "name": "American Airlines",
   "seatguru": "https://www.seatguru.com/airlines/American_Airlines/information.php",

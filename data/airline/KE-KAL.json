@@ -1,6 +1,7 @@
 {
+  "$schema": "https://raw.githubusercontent.com/tomy0000000/jbojson/refs/tags/2026.05.10/schema/airline.json",
   "alliance": "SkyTeam",
-  "apple-wallet-pass": null,
+  "appleWalletPass": null,
   "countries": [
     "kr"
   ],
@@ -10,10 +11,10 @@
   "internet": [
     {
       "aircraft": [
-        "B737",
-        "B787",
         "A321",
-        "A350"
+        "A350",
+        "B737",
+        "B787"
       ],
       "name": "Viasat",
       "url": "https://www.koreanair.com/contents/plan-your-travel/in-flight-experience/wi-fi"
