@@ -1,6 +1,7 @@
+import { defineConfig } from "eslint/config"
 import jsonc from "eslint-plugin-jsonc"
 
-export default [
+export default defineConfig([
   { ignores: ["test/fixtures/**"] },
   ...jsonc.configs["flat/recommended-with-json"],
   {
@@ -28,4 +29,4 @@ export default [
       "no-trailing-spaces": "error",
     },
   },
-]
+])
